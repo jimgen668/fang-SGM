@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  更美丽
+//
+//  Created by tarena06 on 16/3/13.
+//  Copyright © 2016年 cn. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+/** 主机名 */
+#define  KRXMPPHOSTNAME @"127.0.0.1"
+/** openfire域名 */
+#define  KRXMPPDOMAIN   @"tarena.com"
+#define  KRXMPPPORT      5222
+
+
+
+#endif /* PrefixHeader_pch */
