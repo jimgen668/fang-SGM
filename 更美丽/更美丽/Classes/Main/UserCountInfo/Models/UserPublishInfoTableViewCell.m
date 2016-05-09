@@ -2,7 +2,7 @@
 //  UserPublishInfoTableViewCell.m
 //  更美丽
 //
-//  Created by tarena06 on 16/3/11.
+//  Created by hello on 16/3/11.
 //  Copyright © 2016年 cn. All rights reserved.
 //
 

@@ -1,7 +1,7 @@
 //
 //  UserInfoParese.m
 //  更美丽
-//  Created by tarena06 on 16/4/1.
+//  Created by hello on 16/4/1.
 //  Copyright © 2016年 cn. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  PrefixHeader.pch
 //  更美丽
 //
-//  Created by tarena06 on 16/3/13.
+//  Created by hello on 16/3/13.
 //  Copyright © 2016年 cn. All rights reserved.
 //
 
@@ -12,7 +12,7 @@
 /** 主机名 */
 #define  KRXMPPHOSTNAME @"127.0.0.1"
 /** openfire域名 */
-#define  KRXMPPDOMAIN   @"tarena.com"
+#define  KRXMPPDOMAIN   @"hello"
 #define  KRXMPPPORT      5222
 
 

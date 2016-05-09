@@ -2,7 +2,7 @@
 //  UserPicCollectionViewCell.h
 //  更美丽
 //
-//  Created by tarena06 on 16/4/8.
+//  Created by hello on 16/4/8.
 //  Copyright © 2016年 cn. All rights reserved.
 //
 
