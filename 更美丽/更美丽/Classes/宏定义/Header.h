@@ -14,7 +14,7 @@
 /** 主机名 */
 #define  KRXMPPHOSTNAME @"127.0.0.1"
 /** openfire域名 */
-#define  KRXMPPDOMAIN   @"xxxxxxxx.com"
+#define  KRXMPPDOMAIN   @"xxxxx.com"
 #define  KRXMPPPORT      5222
 
 /** 弱指针*/
